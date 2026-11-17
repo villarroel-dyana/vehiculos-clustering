@@ -1,0 +1,10 @@
+torch
+torchvision
+scikit-learn
+numpy
+pandas
+matplotlib
+pillow
+joblib
+gradio
+kagglehub

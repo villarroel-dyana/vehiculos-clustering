@@ -1,0 +1,4 @@
+# features.npy puede pesar más de 100 MB (límite de GitHub)
+resultados/features.npy
+__pycache__/
+.ipynb_checkpoints/
