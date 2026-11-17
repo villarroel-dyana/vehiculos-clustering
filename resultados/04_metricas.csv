@@ -1,0 +1,5 @@
+Métrica,Valor
+K (número de grupos),8.0
+Silhouette (más alto es mejor),0.05909999832510948
+Davies-Bouldin (más bajo es mejor),2.6718
+Calinski-Harabasz (más alto es mejor),169.1999969482422
